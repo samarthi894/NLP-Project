@@ -1,0 +1,363 @@
+[
+  {
+    "id": "1",
+    "context": "Bryan took a look at his books as well.If Bryan has 56.0 books in each of his 9.0 bookshelves.\n",
+    "question": "How many books in each bookshelf?\n",
+    "answer": "56.0"
+  },
+  {
+    "id": "1",
+    "context": "Bryan took a look at his books as well.If Bryan has 56.0 books in each of his 9.0 bookshelves.\n",
+    "question": "How many bookshelves?\n",
+    "answer": "9.0"
+  },
+  {
+    "id": "1",
+    "context": "Bryan took a look at his books as well.If Bryan has 56.0 books in each of his 9.0 bookshelves.\n",
+    "question": "what is the multiplication of 56.0 and 9.0?\n",
+    "answer": "504.0"
+  },
+  {
+    "id": "2",
+    "context": "There are 41.0 short trees and 44.0 tall trees currently in the park. Park workers will plant 57.0 short trees today.\n",
+    "question": "How many short trees are currently present in the park?\n",
+    "answer": "41.0"
+  },
+  {
+    "id": "2",
+    "context": "There are 41.0 short trees and 44.0 tall trees currently in the park. Park workers will plant 57.0 short trees today.\n",
+    "question": "How many short trees are added today?\n",
+    "answer": "57.0"
+  },
+  {
+    "id": "2",
+    "context": "There are 41.0 short trees and 44.0 tall trees currently in the park. Park workers will plant 57.0 short trees today.\n",
+    "question": "What is the addition of 41.0 and 57.0?\n",
+    "answer": "98.0"
+  },
+  {
+    "id": "3",
+    "context": "In fourth grade there were 35.0 students at the start of the year . During the year 10.0 students left and 12.0 new students came to school.\n",
+    "question": "How many students present in fourth grade at the start of the year?\n",
+    "answer": "35.0"
+  },
+  {
+    "id": "3",
+    "context": "In fourth grade there were 35.0 students at the start of the year . During the year 10.0 students left and 12.0 new students came to school.\n",
+    "question": "How many students left?\n",
+    "answer": "10.0"
+  },
+  {
+    "id": "3",
+    "context": "In fourth grade there were 35.0 students at the start of the year . During the year 10.0 students left and 12.0 new students came to school.\n",
+    "question": "How many new students came to school?\n",
+    "answer": "12.0"
+  },
+  {
+    "id": "3",
+    "context": "In fourth grade there were 35.0 students at the start of the year . During the year 10.0 students left and 12.0 new students came to school.\n",
+    "question": "What is the difference between 12.0 and 10.0?\n",
+    "answer": "2.0"
+  },
+  {
+    "id": "3",
+    "context": "In fourth grade there were 35.0 students at the start of the year . During the year 10.0 students left and 12.0 new students came to school.\n",
+    "question": "What is the addition of 2.0 and 35.0?\n",
+    "answer": "37.0"
+  },
+  {
+    "id": "4",
+    "context": "For the fifth grade play, the chairs have been put into 27.0 rows with 16.0 chairs in each row.\n",
+    "question": "How many rows present?\n",
+    "answer": "27.0"
+  },
+  {
+    "id": "4",
+    "context": "For the fifth grade play, the chairs have been put into 27.0 rows with 16.0 chairs in each row.\n",
+    "question": "How many chairs present in each row?\n",
+    "answer": "16.0"
+  },
+  {
+    "id": "4",
+    "context": "For the fifth grade play, the chairs have been put into 27.0 rows with 16.0 chairs in each row.\n",
+    "question": "What is the multiplication of 27.0 and 16.0?\n",
+    "answer": "432.0"
+  },
+  {
+    "id": "5",
+    "context": "Conner has 25000.0 dollars in his bank account.Every month he spends 1500.0 dollars.He does not add money to the account.\n",
+    "question": "How many dollars Conner have in his bank account?\n",
+    "answer": "25000.0"
+  },
+  {
+    "id": "5",
+    "context": "Conner has 25000.0 dollars in his bank account.Every month he spends 1500.0 dollars.He does not add money to the account.\n",
+    "question": "How many dollars Conner spends every month?\n",
+    "answer": "1500.0"
+  },
+  {
+    "id": "5",
+    "context": "Conner has 25000.0 dollars in his bank account.Every month he spends 1500.0 dollars.He does not add money to the account.\n",
+    "question": "What is the multiplication of 1500.0 and 8.0?\n",
+    "answer": "12000.0"
+  },
+  {
+    "id": "5",
+    "context": "Conner has 25000.0 dollars in his bank account.Every month he spends 1500.0 dollars.He does not add money to the account.\n",
+    "question": "What is the difference between 25000.0 and 12000.0?\n",
+    "answer": "13000.0"
+  },
+  {
+    "id": "6",
+    "context": "Maggi had 3.0 packages of cupcakes.There are 4.0 cupcakes in each package.She ate 5.0 cupcakes.\n",
+    "question": "How many packages of cupcakes does Maggie had?\n",
+    "answer": "3.0"
+  },
+  {
+    "id": "6",
+    "context": "Maggi had 3.0 packages of cupcakes.There are 4.0 cupcakes in each package.She ate 5.0 cupcakes.\n",
+    "question": "How many cupcakes are present in each package?\n",
+    "answer": "4.0"
+  },
+  {
+    "id": "6",
+    "context": "Maggi had 3.0 packages of cupcakes.There are 4.0 cupcakes in each package.She ate 5.0 cupcakes.\n",
+    "question": "What is the multiplication of 3.0 and 4.0?\n",
+    "answer": "12.0"
+  },
+  {
+    "id": "6",
+    "context": "Maggi had 3.0 packages of cupcakes.There are 4.0 cupcakes in each package.She ate 5.0 cupcakes.\n",
+    "question": "How many cupcakes Maggie ate?\n",
+    "answer": "5.0"
+  },
+  {
+    "id": "6",
+    "context": "Maggi had 3.0 packages of cupcakes.There are 4.0 cupcakes in each package.She ate 5.0 cupcakes.\n",
+    "question": "What is the difference between 12.0 and 5.0?\n",
+    "answer": "7.0"
+  },
+  {
+    "id": "7",
+    "context": "You deposit 70.0 dollars in a savings account that pays an annual interest rate of 3.0 %.\n",
+    "question": "How many dollars present in a savings account?\n",
+    "answer": "70.0"
+  },
+  {
+    "id": "7",
+    "context": "You deposit 70.0 dollars in a savings account that pays an annual interest rate of 3.0 %.\n",
+    "question": "What is the rate of annual interest in percentage?\n",
+    "answer": "3.0"
+  },
+  {
+    "id": "7",
+    "context": "You deposit 70.0 dollars in a savings account that pays an annual interest rate of 3.0 %.\n",
+    "question": "what is the division of 3.0 by 100.0?\n",
+    "answer": "0.03"
+  },
+  {
+    "id": "7",
+    "context": "You deposit 70.0 dollars in a savings account that pays an annual interest rate of 3.0 %.\n",
+    "question": "what is the multiplication of 0.03 and 70.0?\n",
+    "answer": "2.1"
+  },
+  {
+    "id": "7",
+    "context": "You deposit 70.0 dollars in a savings account that pays an annual interest rate of 3.0 %.\n",
+    "question": "What is the multiplication  of 2.1 and 2.5\n",
+    "answer": "5.25"
+
+  },
+  {
+    "id": "7",
+    "context": "You deposit 70.0 dollars in a savings account that pays an annual interest rate of 3.0 %.\n",
+    "question": "What is the addition of 70.0 and 5.25\n",
+    "answer": "75.25"
+  },
+  {
+    "id": "8",
+    "context": "Emily collects 63.0 cards.Emily 's father gives Emily 7.0 more.Bruce has 13.0 apples.\n",
+    "question": "How many cars Emily collected?\n",
+    "answer": "63.0"
+  },
+  {
+    "id": "8",
+    "context": "Emily collects 63.0 cards.Emily 's father gives Emily 7.0 more.Bruce has 13.0 apples.\n",
+    "question": "How many cards Emily's father gave her?\n",
+    "answer": "7.0"
+  },
+  {
+    "id": "8",
+    "context": "Emily collects 63.0 cards.Emily 's father gives Emily 7.0 more.Bruce has 13.0 apples.\n",
+    "question": "What is the addition of 63.0 and 7.0?\n",
+    "answer": "70.0"
+  },
+  {
+    "id": "9",
+    "context": "Mary is baking a cake.The recipe calls for 7.0 cups of flour and 3.0 cups of sugar.She already put in 2.0 cups of flour.\n",
+    "question": "How many cups of flour did recipe called?\n",
+    "answer": "7.0"
+  },
+  {
+    "id": "9",
+    "context": "Mary is baking a cake.The recipe calls for 7.0 cups of flour and 3.0 cups of sugar.She already put in 2.0 cups of flour.\n",
+    "question": "How many cups of flour did Mary has already put?\n",
+    "answer": "2.0"
+  },
+  {
+    "id": "9",
+    "context": "Mary is baking a cake.The recipe calls for 7.0 cups of flour and 3.0 cups of sugar.She already put in 2.0 cups of flour.\n",
+    "question": "What is the difference between 7.0 and 2.0?\n",
+    "answer": "5.0"
+  },
+  {
+    "id": "10",
+    "context": "It takes 4.0 apples to make 1.0 pie.\n",
+    "question": "How many apples it takes to make 1.0 pie?\n",
+    "answer": "4.0"
+  },
+  {
+    "id": "10",
+    "context": "It takes 4.0 apples to make 1.0 pie.\n",
+    "question": "How many apples required to make?\n",
+    "answer": "504.0"
+  },
+  {
+    "id": "10",
+    "context": "It takes 4.0 apples to make 1.0 pie.\n",
+    "question": "What is the multiplication of 504.0 and 4.0?\n",
+    "answer": "2016.0"
+  },
+  {
+    "id": "11",
+    "context": "Sean has 9.0 apples.Susan gives Sean 8.0 more.Later,Sean buys 18.0 tickets at the store.\n",
+    "question": "How many apples does Sean have?\n",
+    "answer": "9.0"
+  },
+  {
+    "id": "11",
+    "context": "Sean has 9.0 apples.Susan gives Sean 8.0 more.Later,Sean buys 18.0 tickets at the store.\n",
+    "question": "How many apples does Susan give Sean?\n",
+    "answer": "8.0"
+  },
+  {
+    "id": "11",
+    "context": "Sean has 9.0 apples.Susan gives Sean 8.0 more.Later,Sean buys 18.0 tickets at the store.\n",
+    "question": "What is the addition of 9.0 and 8.0?\n",
+    "answer": "17.0"
+  },
+  {
+    "id": "12",
+    "context": "Rachel bought two coloring books.One had 24.0 pictures and the other had 39.0. After one week she had already colored 4.0 of the pictures.\n",
+    "question": "How many pictures present in first coloring book?\n",
+    "answer": "24.0"
+  },
+  {
+    "id": "12",
+    "context": "Rachel bought two coloring books.One had 24.0 pictures and the other had 39.0. After one week she had already colored 4.0 of the pictures.\n",
+    "question": "How many pictures present in second coloring book?\n",
+    "answer": "39.0"
+  },
+  {
+    "id": "12",
+    "context": "Rachel bought two coloring books.One had 24.0 pictures and the other had 39.0. After one week she had already colored 4.0 of the pictures.\n",
+    "question": "How many pictures she had colored after one week?\n",
+    "answer": "4.0"
+  },
+  {
+    "id": "12",
+    "context": "Rachel bought two coloring books.One had 24.0 pictures and the other had 39.0. After one week she had already colored 4.0 of the pictures.\n",
+    "question": "What is the addition of 24.0 and 39.0?\n",
+    "answer": "63.0"
+  },
+  {
+    "id": "12",
+    "context": "Rachel bought two coloring books.One had 24.0 pictures and the other had 39.0. After one week she had already colored 4.0 of the pictures.\n",
+    "question": "What is the difefrence between 63.0 and 4.0?\n",
+    "answer": "59.0"
+  },
+  {
+    "id": "13",
+    "context": "A DVD book holds 126.0 DVDs.There are 81.0 DVDs already in the book.\n",
+    "question": "How many DVDs does DVD book hold?\n",
+    "answer": "126.0"
+  },
+  {
+    "id": "13",
+    "context": "A DVD book holds 126.0 DVDs.There are 81.0 DVDs already in the book.\n",
+    "question": "How many DVDs are already present in the book?\n",
+    "answer": "81.0"
+  },
+  {
+    "id": "13",
+    "context": "A DVD book holds 126.0 DVDs.There are 81.0 DVDs already in the book.\n",
+    "question": "What is the difference between 126.0 and 81.0?\n",
+    "answer": "45.0"
+  },
+  {
+    "id": "14",
+    "context": "James has 232.0 balloons.Amy has 101.0 balloons.\n",
+    "question": "How many balloons does James have?\n",
+    "answer": "232.0"
+  },
+  {
+    "id": "14",
+    "context": "James has 232.0 balloons.Amy has 101.0 balloons.\n",
+    "question": "How many balloons does Amy have?\n",
+    "answer": "101.0"
+  },
+  {
+    "id": "14",
+    "context": "James has 232.0 balloons.Amy has 101.0 balloons.\n",
+    "question": "What is the difference between 232.0 and 101.0?\n",
+    "answer": "131.0"
+  },
+  {
+    "id": "15",
+    "context": "A company invited 18.0 people to a luncheon , but 12.0 of them didn't show up.If the tables they had held 3.0 people each.\n",
+    "question": "How many people did company invited to lunceon?\n",
+    "answer": "18.0"
+  },
+  {
+    "id": "15",
+    "context": "A company invited 18.0 people to a luncheon , but 12.0 of them didn't show up.If the tables they had held 3.0 people each.\n",
+    "question": "How many people didn't show up?\n",
+    "answer": "12.0"
+  },
+  {
+    "id": "15",
+    "context": "A company invited 18.0 people to a luncheon , but 12.0 of them didn't show up.If the tables they had held 3.0 people each.\n",
+    "question": "What is the difference between 18.0 and 12.0?\n",
+    "answer": "6.0"
+  },
+  {
+    "id": "15",
+    "context": "A company invited 18.0 people to a luncheon , but 12.0 of them didn't show up.If the tables they had held 3.0 people each.\n",
+    "question": "How many people does each table held?\n",
+    "answer": "3.0"
+  },
+  {
+    "id": "15",
+    "context": "A company invited 18.0 people to a luncheon , but 12.0 of them didn't show up.If the tables they had held 3.0 people each.\n",
+    "question": "What is the division of 6.0 by 3.0?\n",
+    "answer": "2.0"
+  },
+  {
+    "id": "16",
+    "context": "An oil pipe in the sea broke.Before engineers started to fix the pipe,6522.0 liters of oil leaked into the water.While the engineers worked,the pipe leaked 5165.0 liters of oil.\n",
+    "question": "How many liters of oil leaked before engineers started to fix the pipe?\n",
+    "answer": "6522.0"
+  },
+  {
+    "id": "16",
+    "context": "An oil pipe in the sea broke.Before engineers started to fix the pipe,6522.0 liters of oil leaked into the water.While the engineers worked,the pipe leaked 5165.0 liters of oil.\n",
+    "question": "How many liters of oil leaked while engineers worked on the pipe?\n",
+    "answer": "5165.0"
+  },
+  {
+    "id": "16",
+    "context": "An oil pipe in the sea broke.Before engineers started to fix the pipe,6522.0 liters of oil leaked into the water.While the engineers worked,the pipe leaked 5165.0 liters of oil.\n",
+    "question": "What is the difference between 6522.0 and 5165.0?\n",
+    "answer": "11687.0"
+  }
+]

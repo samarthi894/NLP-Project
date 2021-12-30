@@ -1,0 +1,98 @@
+[
+  {
+    "id": "1",
+    "context": "Bryan took a look at his books as well.If Bryan has 56.0 books in each of his 9.0 bookshelves.\n",
+    "question": "how many books does he have in total?\n",
+    "answer": "504.0"
+  },
+  {
+    "id": "2",
+    "context": "There are 41.0 short trees and 44.0 tall trees currently in the park. Park workers will plant 57.0 short trees today.\n",
+    "question": "How many short trees will the park have when the workers are finished?\n",
+    "answer": "98.0"
+  },
+  {
+    "id": "3",
+    "context": "In fourth grade there were 35.0 students at the start of the year . During the year 10.0 students left and 12.0 new students came to school.\n",
+    "question": "How many students were in fourth grade at the end?\n",
+    "answer": "37.0"
+  },
+  {
+    "id": "4",
+    "context": "For the fifth grade play, the chairs have been put into 27.0 rows with 16.0 chairs in each row.\n",
+    "question": "How many chairs have been put out for the play?\n",
+    "answer": "432.0"
+  },
+  {
+    "id": "5",
+    "context": "Conner has 25000.0 dollars in his bank account.Every month he spends 1500.0 dollars.He does not add money to the account.\n",
+    "question": "How much money will Conner have in his account after 8.0 months?\n",
+    "answer": "13000.0"
+  },
+  {
+    "id": "6",
+    "context": "Maggi had 3.0 packages of cupcakes.There are 4.0 cupcakes in each package.She ate 5.0 cupcakes.\n",
+    "question": "How many are left?\n",
+    "answer": "7.0"
+  },
+  {
+    "id": "7",
+    "context": "You deposit 70.0 dollars in a savings account that pays an annual interest rate of 3.0 %.\n",
+    "question": "How much simple interest would you earn in 2.5 years , in dollars?\n",
+    "answer": "5.25"
+  },
+  {
+    "id": "8",
+    "context": "Emily collects 63.0 cards.Emily 's father gives Emily 7.0 more.Bruce has 13.0 apples.\n",
+    "question": "How many cards does Emily have?\n",
+    "answer": "70.0"
+  },
+  {
+    "id": "9",
+    "context": "Mary is baking a cake.The recipe calls for 7.0 cups of flour and 3.0 cups of sugar.She already put in 2.0 cups of flour.\n",
+    "question": "How many cups of flour does she need to add?\n",
+    "answer": "5.0"
+  },
+  {
+    "id": "10",
+    "context": "It takes 4.0 apples to make 1.0 pie.\n",
+    "question": "How many apples does it take to make 504.0 pies?\n",
+    "answer": "2016.0"
+  },
+  {
+    "id": "11",
+    "context": "Sean has 9.0 apples.Susan gives Sean 8.0 more.Later,Sean buys 18.0 tickets at the store.\n",
+    "question": "How many apples does Sean have in all?\n",
+    "answer": "17.0"
+  },
+  {
+    "id": "12",
+    "context": "Rachel bought two coloring books.One had 24.0 pictures and the other had 39.0. After one week she had already colored 4.0 of the pictures.\n",
+    "question": "How many pictures does she still have to color?\n",
+    "answer": "59.0"
+  },
+  {
+    "id": "13",
+    "context": "A DVD book holds 126.0 DVDs.There are 81.0 DVDs already in the book.\n",
+    "question": "How many more DVDs can be put in the book?\n",
+    "answer": "45.0"
+  },
+  {
+    "id": "14",
+    "context": "James has 232.0 balloons.Amy has 101.0 balloons.\n",
+    "question": "How many more balloons does James have than Amy?\n",
+    "answer": "131.0"
+  },
+  {
+    "id": "15",
+    "context": "A company invited 18.0 people to a luncheon , but 12.0 of them didn't show up.If the tables they had held 3.0 people each.\n",
+    "question": "How many tables do they need?\n",
+    "answer": "2.0"
+  },
+  {
+    "id": "16",
+    "context": "An oil pipe in the sea broke.Before engineers started to fix the pipe,6522.0 liters of oil leaked into the water.While the engineers worked,the pipe leaked 5165.0 liters of oil.\n",
+    "question": "In all,how many liters of oil leaked into the water?\n",
+    "answer": "11687.0"
+  }
+]
