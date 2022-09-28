@@ -38,7 +38,7 @@
 
 NOTE: Context and question should end with \n. For each id in {dataset_name}_undecomp.json, the id should be same for the decomposed versions of the original question in the {dataset_name}_decomp.json file
 
-## decomposition_answers.py --by pruthvi
+## decomposition_answers.py
 
 The script takes three arguments as its input:
 
